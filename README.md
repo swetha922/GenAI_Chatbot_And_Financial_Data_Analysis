@@ -27,7 +27,9 @@ Predefined Queries: The chatbot responds to predefined queries by fetching finan
 Dynamic Response Generation: The chatbot uses logic to compute and present year-over-year growth rates and other financial metrics.
 
 # Tech Stack
-Python (pandas, Flask)
+Python 
+Pandas
+Flask
 Jupyter Notebook
 HTML/CSS (for Flask-based UI)
 matplotlib (for data visualization)
